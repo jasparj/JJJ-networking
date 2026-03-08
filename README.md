@@ -5,18 +5,18 @@ Production-ready static website built using HTML5, CSS3, and vanilla JavaScript.
 ## Structure
 
 ```
-website/
+JJJ-networking/
 ├── index.html
-├── services.html
 ├── about.html
+├── services.html
 ├── contact.html
 ├── css/
 │   └── styles.css
 ├── js/
 │   └── script.js
-├── images/
 ├── robots.txt
-└── sitemap.xml
+├── sitemap.xml
+└── README.md
 ```
 
 ## Notes
